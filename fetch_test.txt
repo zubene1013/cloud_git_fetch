@@ -1,7 +1,4 @@
 fetch command test
 Write modify text in remote repo
-<<<<<<< HEAD
-I don't know remote status
-=======
 error occurrence test - remote
->>>>>>> 4559db61d5d30e42034df3b581a0637494e18317
+I don't know remote status
