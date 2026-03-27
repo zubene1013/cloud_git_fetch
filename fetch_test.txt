@@ -1,2 +1,3 @@
 fetch command test
 Write modify text in remote repo
+error occurrence test - remote
